@@ -33,7 +33,7 @@ function Login() {
       return
     }
 
-    navigate('/landing')
+    navigate('/dashboard')
   }
 
   return (
@@ -163,7 +163,7 @@ function Login() {
           <p className="text-center text-sm text-gray-500">
             ليس لديك حساب؟{' '}
             <span
-              onClick={() => navigate('/')}
+              onClick={() => navigate('/register')}
               className="text-blue-600 font-medium cursor-pointer"
             >
               التسجيل

@@ -163,7 +163,7 @@ function RegisterStep2() {
           </label>
 
           <button
-           onClick={() => navigate('/landing')}
+           onClick={() => navigate('/dashboard')}
             className="w-full bg-[#2563EB] text-white py-4 rounded-xl font-semibold text-sm hover:bg-blue-700 transition"
           >
             انتهاء

@@ -44,7 +44,7 @@ function Landing() {
         </div>
 
         <button
-          onClick={() => navigate('/')}
+          onClick={() => navigate('/login')}
           className="px-6 py-2 rounded-xl text-sm border border-gray-300 text-gray-700 hover:bg-blue-600 hover:text-white hover:border-blue-600 transition"
         >
           التسجيل
