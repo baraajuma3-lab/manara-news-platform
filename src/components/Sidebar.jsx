@@ -51,6 +51,18 @@ function Sidebar() {
 
       {/* Bottom */}
       <div className="px-3 pb-6">
+
+        {/* Telegram Button */}
+        <a
+          href="https://t.me/manara_news_bot"
+          target="_blank"
+          rel="noreferrer"
+          className="w-full bg-blue-600 hover:bg-blue-700 transition text-white font-bold text-sm py-3 rounded-xl flex items-center justify-center gap-2 mb-4"
+        >
+         
+          Get Telegram Bot
+        </a>
+
         <div className="flex flex-col gap-1 mb-4">
           <button className="flex items-center gap-3 px-4 py-3 rounded-xl text-sm font-medium text-gray-600 hover:bg-gray-100 transition">
             <Settings size={20} /> Settings
@@ -59,6 +71,7 @@ function Sidebar() {
             <HelpCircle size={20} /> Support
           </button>
         </div>
+
         <div className="flex items-center gap-3 px-4 pt-4 border-t border-gray-200">
           <div className="w-9 h-9 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 text-xs font-bold">
             A

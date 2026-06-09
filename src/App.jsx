@@ -34,6 +34,7 @@ import Community from './pages/Community'
 import VerifyNews from './pages/VerifyNews'
 import NewsComposer from './pages/NewsComposer'
 import MisinformationArchive from './pages/MisinformationArchive'
+import TrendingNews from './pages/TrendingNews'
 
 function App() {
   return (
@@ -56,6 +57,7 @@ function App() {
 <Route path="/verify-news" element={<VerifyNews />} />
 <Route path="/news-composer" element={<NewsComposer />} />
 <Route path="/archive" element={<MisinformationArchive />} />
+<Route path="/trending-news" element={<TrendingNews />} />
 
       </Routes>
     </BrowserRouter>
