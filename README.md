@@ -7,17 +7,17 @@
 
 ## 🖥️ Screenshots
 
-| Landing Page | Dashboard |
+| Landing Page | Login |
 |---|---|
-| ![Landing](screenshots/index.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Landing](screenshots/index.png) | ![Login](screenshots/Login.png) |
 
-| Login | Sign Up — Step 1 |
+| Sign Up — Step 1 | Sign Up — Step 2 |
 |---|---|
-| ![Login](screenshots/Login.png) | ![SignUp1](screenshots/Sign_up_1.png) |
+| ![SignUp1](screenshots/Sign_up_1.png) | ![SignUp2](screenshots/Sign_up_2.png) |
 
-| Sign Up — Step 2 | Verify News |
+| Dashboard | Verify News |
 |---|---|
-| ![SignUp2](screenshots/Sign_up_2.png) | ![Verify](screenshots/verfiy_news_-_Image.png) |
+| ![Dashboard](screenshots/dashboard.png) | ![Verify](screenshots/verfiy_news_-_Image.png) |
 
 | News Composer | Misinformation Archive |
 |---|---|
