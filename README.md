@@ -19,11 +19,11 @@
 
 ### Sign Up — Step 1
 
-![SignUp1](screenshots/Sign up 1.png)
+![SignUp1](screenshots/Sign_up_1.png)
 
 ### Sign Up — Step 2
 
-![SignUp2](screenshots/Sign up 2.png)
+![SignUp2](screenshots/Sign_up_2.png)
 
 ### Dashboard
 
