@@ -45,13 +45,20 @@
 
 Key Features
 
-AI-Powered News Verification — Analyzes text, images, and videos to assess authenticity and detect misinformation
-Image Forensics — Identifies manipulation, deepfakes, and metadata tampering with confidence scoring
-News Composer — A structured writing environment with AI-assisted neutrality checking and source citation
-Misinformation Archive — A searchable database of 14,000+ debunked stories with verified fact-checking reports
-Geographical Misinformation Map — Real-time visualization of misinformation density by region
-Smart Source Search — Traces news origin and cross-references trusted outlets automatically
-Community Feed — A collaborative space for journalists and fact-checkers to share findings
+1. AI-Powered News Verification — Analyzes text, images, and videos to assess authenticity and detect misinformation
+
+2. Image Forensics — Identifies manipulation, deepfakes, and metadata tampering with confidence scoring
+
+3. News Composer — A structured writing environment with AI-assisted neutrality checking and source citation
+
+4. Misinformation Archive — A searchable database of 14,000+ debunked stories with verified fact-checking reports
+
+5. Geographical Misinformation Map — Real-time visualization of misinformation density by region
+
+6. Smart Source Search — Traces news origin and cross-references trusted outlets automatically
+
+7. Community Feed — A collaborative space for journalists and fact-checkers to share findings
+
 ---
 
 ## 🛠️ Built With
