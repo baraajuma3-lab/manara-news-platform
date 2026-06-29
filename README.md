@@ -1,13 +1,11 @@
 
-# 🔍 Manara — AI-Powered Investigative Journalism Platform
+# Manara — AI-Powered Investigative Journalism Platform
 
-> **Verify, Trace, and Investigate — all in one platform.**
-
+> Verify, Trace, and Investigate — all in one platform.
 > Manara helps journalists and researchers track news back to its original source, verify credibility, and fight misinformation.
-
 ---
 
-## 🖥️ Screenshots
+# Screenshots
 
 ### Landing Page
 
@@ -43,7 +41,7 @@
 
 ---
 
-Key Features
+# Key Features
 
 1. AI-Powered News Verification — Analyzes text, images, and videos to assess authenticity and detect misinformation
 
@@ -61,39 +59,32 @@ Key Features
 
 ---
 
-## 🛠️ Built With
+ # Built With
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+React · TypeScript · Tailwind CSS · Vite · React Router · Supabase
+---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ # Getting Started
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+clone the repository and install dependencies:
+
+git clone https://github.com/baraajuma3-lab/manara-website.git 
+ 
+cd manara-website 
+
+npm install 
+
+npm run dev
 
 ---
 
-## 🚀 Getting Started
+# Author
 
-\`\`\`bash
+Baraa Juma — Frontend Developer & UI/UX Designer
+github.com/baraajuma3-lab
 
-git clone https://github.com/baraajuma3-lab/manara-website.git
 
-cd manara-website
-
-npm install
-
-npm start
-
-\`\`\`
-
+> Manara — The digital infrastructure for truth in an age of fragmented information.
 ---
 
-## 👩‍💻 Author
-
-**Baraa** — Frontend Developer & UI/UX Designer
-
-[![GitHub](https://img.shields.io/badge/GitHub-baraajuma3--lab-black?style=flat&logo=github)](https://github.com/baraajuma3-lab)
-
----
-
-> *Manara — The digital infrastructure for truth in an age of fragmented information.*
 
