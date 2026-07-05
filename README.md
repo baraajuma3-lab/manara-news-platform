@@ -9,7 +9,7 @@
 
 ### Landing Page
 
-![Login](screenshots/index.png)
+![LandingPage](screenshots/index.png)
 
 ### Login
 
@@ -22,6 +22,14 @@
 ### Sign Up — Step 2
 
 ![SignUp2](screenshots/Sign_up_2.png)
+
+### News_Composer
+
+![News_Composer](screenshots/News_Composer.png)
+
+### Archive
+
+![Archive](Archive.png)
 
 
 
