@@ -27,9 +27,7 @@
 
 ![News_Composer](screenshots/News_Composer.png)
 
-### Archive
 
-![Archive](Archive.png)
 
 
 
