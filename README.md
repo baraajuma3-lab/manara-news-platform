@@ -9,7 +9,7 @@
 
 ### Landing Page
 
-![Landing](screenshots/index.png)
+![Login](screenshots/Login.png)
 
 ### Login
 
@@ -23,21 +23,7 @@
 
 ![SignUp2](screenshots/Sign_up_2.png)
 
-### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
-
-### Verify News
-
-![Verify](screenshots/verfiy_news_-_Image.png)
-
-### News Composer
-
-![Composer](screenshots/News_Composer.png)
-
-### Misinformation Archive
-
-![Archive](screenshots/Archive.png)
 
 ---
 
