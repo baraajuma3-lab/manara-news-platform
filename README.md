@@ -9,7 +9,7 @@
 
 ### Landing Page
 
-![Login](screenshots/Login.png)
+![Login](screenshots/index.png)
 
 ### Login
 
